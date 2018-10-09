@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='s-ssh',
-    version='v0.0.1',
+    version='v0.0.2',
     install_requires=[  # 依赖列表
         'fire>=0.1.3',
         'libtmux>=0.8.0',
